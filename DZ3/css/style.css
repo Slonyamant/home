@@ -1,0 +1,221 @@
+ *,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.title {
+  margin-left: 11px;
+  margin-top: 50px;
+  font-size: 32px;
+color: #000000;
+font-weight: 400;
+font-family: "Roboto";
+}
+.text {
+  margin-left: 11px;
+  margin-top: 57px;
+  font-size: 20px;
+color: #000000;
+font-weight: 400;
+font-family: "Roboto";
+}
+.type {
+  margin-top: 14px; 
+  margin-left: 11px;
+  width: 800px;
+height: 60px;
+border-radius: 8px;
+background-color: #e6e6e6;
+border: 2px solid #808080;
+}
+.e-mail {
+  margin-left: 11px;
+  margin-top: 35px;
+  font-size: 20px;
+color: #000000;
+font-weight: 400;
+font-family: "Roboto";
+}
+.e-mail-text {
+  margin-top: 14px; 
+  margin-left: 11px;
+  width: 800px;
+height: 60px;
+border-radius: 8px;
+background-color: #e6e6e6;
+border: 2px solid #808080;
+}
+.phone {
+    margin-left: 11px;
+  margin-top: 35px;
+  font-size: 20px;
+color: #000000;
+font-weight: 400;
+font-family: "Roboto";
+}
+.tel {
+  margin-top: 14px; 
+   margin-left: 11px;
+  width: 800px;
+height: 60px;
+border-radius: 8px;
+background-color: #e6e6e6;
+border: 2px solid #808080;
+}
+.country {
+   margin-left: 11px;
+  margin-top: 35px;
+  font-size: 20px;
+color: #000000;
+font-weight: 400;
+font-family: "Roboto";
+}
+.country-box {
+  margin-top: 14px; 
+  margin-left: 11px;
+  width: 800px;
+height: 60px;
+border-radius: 8px;
+background-color: #e6e6e6;
+border: 2px solid #808080;
+}
+.attend {
+   margin-left: 11px;
+  margin-top: 40px;
+  margin-bottom: 15px;
+  font-size: 20px;
+color: #000000;
+font-weight: 400;
+font-family: "Roboto";
+}
+.online {
+  margin-top: 15px;
+  margin-left: 11px;
+  margin-top: 41px;
+width: 30px;
+height: 30px;
+border-radius: 15px;
+background-color: #808080;
+border: 0px solid #808080;
+}
+.offline {
+  margin-left: 11px;
+  margin-top: 13px;
+width: 30px;
+height: 30px;
+border-radius: 15px;
+background-color: #e6e6e6;
+border: 2px solid #808080;
+}
+.Comments {
+  margin-left: 11px;
+  margin-top: 35px;
+  margin-bottom: 13px;
+  font-size: 20px;
+color: #000000;
+font-weight: 400;
+font-family: "Roboto";
+}
+.textarea { 
+ margin-left: 11px;
+  width: 800px;
+height: 60px;
+border-radius: 8px;
+background-color: #e6e6e6;
+border: 2px solid #808080;
+padding: 101-809px;
+}
+.checkbox {
+   margin-top: 15px;
+  margin-left: 11px;
+  margin-top: 15px;
+  font-size: 20px;
+color: #000000;
+font-weight: 400;
+font-family: "Roboto";
+}
+.strong {
+  color: blue;
+}
+.btn {
+  width: 360px;
+height: 75px;
+border-radius: 8px;
+background-color: #e6e6e6;
+border: 0px solid #808080;
+  margin-top: 14;
+  margin-left: 11px;
+  font-size: 24px;
+color: #808080;
+font-weight: 400;
+font-family: "Roboto";
+}
+.btn-second {
+   width: 360px;
+height: 75px;
+border-radius: 8px;
+background-color: #000;
+border: 0px solid #808080;
+  margin-top: 14;
+  margin-left: 11px;
+  margin-right: 626px;
+  font-size: 24px;
+color: #fff;
+font-weight: 400;
+font-family: "Roboto";
+}
+
+
+
+
+
+
